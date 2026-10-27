@@ -1,0 +1,17 @@
+{
+  "name": "HARIZMA ONLINE",
+  "short_name": "HARIZMA",
+  "description": "Aplikasi supplier produk herbal untuk minimarket di Ambon",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f8f8",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
